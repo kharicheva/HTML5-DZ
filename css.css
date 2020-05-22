@@ -3,12 +3,12 @@ body{
     box-sizing: border-box;
     font-family: Arial;
     font-size: 14px;
-    
+
 }
 .container{
     width: 1280px;
     margin: 0 auto;
-   
+
 }
 .main-header{
     width: 100%;
@@ -26,13 +26,13 @@ color: #fff;
     clear: both;
 }
 .main-header-wrp{
-    
+
     float: left;
-   
+
 }
 .main-header-title{
     margin: 0 0 20px 0;
-    
+
 }
 .main-header-list{
     margin: 0;
@@ -40,7 +40,7 @@ color: #fff;
     padding: 0 0 0 32px;
 }
 .main-header-list-item{
-    position: relative; 
+    position: relative;
     font-size: 20px;
 line-height: 36px;
 font-weight: 400;
@@ -55,7 +55,7 @@ font-weight: 400;
     position: absolute;
     top: 9px;
     left: -36px;
-    
+
 }
 
 .main-header-img{
@@ -96,7 +96,7 @@ color: #445161;
     padding-left: 50px;
     padding-top: 25px;
     margin: 0;
-    
+
 }
 .section-part{
     float: left;
@@ -109,7 +109,7 @@ color: #333333;
     width: 649px;
    min-height: 63px;
     margin: 20px 0 0 0;
-    
+
 }
 .main-section-img{
     width: 430px;
@@ -120,7 +120,7 @@ background-color: #445161;
     margin-top: 50px;
     margin-right: 50px;
     margin: 0;
-    
+
 }
 .dignity{
      width: 100%;
@@ -139,11 +139,11 @@ color:#445162 ;
 }
  details summary::-webkit-details-marker{
   display:  none;
-     
+
 }
 summary{
     position: relative;
-  margin: 0 0 20px 0; 
+  margin: 0 0 20px 0;
 }
 summary:before{
      content: "+";
@@ -162,9 +162,9 @@ summary:before{
     left: -35px;
     top: -4px;
 }
-summary:hover:before {  
-    background-color: #009777;  
-}  
+summary:hover:before {
+    background-color: #009777;
+}
 .dignity-title {
 width: 100%;
 margin: 0 0 20px 0;
@@ -210,14 +210,14 @@ line-height: 36px;
 font-weight: 400px;
 color: #445161;
     margin: 34px;
-    
+
 }
 .screenshots-item{
     width: 48%;
   margin: 0 0 30px 0;
   box-sizing: border-box;
   display: flex;
-  
+
 }
 .screenshots-photo{
     display: block;
@@ -225,15 +225,15 @@ color: #445161;
 height: 150px;
 background-color: #445161;
     margin: 0 0 0 0;
-   
-   
+
+
 }
 .screenshots-header{
    font-family: Arial;
 font-size: 24px;
 line-height: 30px;
 font-weight: 400;
-color: #445161; 
+color: #445161;
     margin: 0px;
 }
 .screenshots-item-txt{
@@ -266,7 +266,7 @@ line-height: 36px;
 font-weight: 400px;
 color: #445161;
     margin: 34px;
-    
+
 }
 .reviews-item{
     width: 48%;
@@ -301,7 +301,7 @@ color: #333333;
 .reviews-part:before{
     content: "";
   display: block;
-  border: 13px solid transparent; 
+  border: 13px solid transparent;
   border-right: 13px solid #ccc;
   position: absolute;
   top: 35px;
@@ -327,7 +327,7 @@ color: #333333;
   text-align: center;
     font-family: Arial;
 font-size: 30px;
-line-height: 36px;
+line-height: 37px;
 font-weight: 400;
 color: #445161;
 }
