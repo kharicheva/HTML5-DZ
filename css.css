@@ -440,9 +440,21 @@ color: #ffffff;
   width: 500px;
   margin: 0 46px 22px 0;
 }
-input:focus{
+.main-footer-form input[type="text"]:focus{
     border: 1px solid red;
 }
+
+.main-footer-form input[type="email"]:focus{
+    border: 1px solid red;
+}
+
+.main-footer-form textarea:focus{
+    border: 1px solid red;
+}
+textarea{
+    resize: none;
+}
+
 .main-footer-form input[type="text"],
 .main-footer-form input[type="email"],
 .main-footer-form textarea {
