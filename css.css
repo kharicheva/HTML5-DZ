@@ -411,7 +411,7 @@ color: #445161;
    background-color:  #445161;
     color: #fff;
 }
-<<<<<<< Updated upstream
+
 .main-footer{
     display: flex;
     flex-wrap: wrap;
@@ -431,6 +431,7 @@ line-height: 36px;
 font-weight: 400;
 color: #ffffff;
     text-align: center;
+  
 }
 .main-footer-form{
     display: flex;
@@ -439,6 +440,21 @@ color: #ffffff;
   width: 500px;
   margin: 0 46px 22px 0;
 }
+.main-footer-form input[type="text"]:focus{
+    border: 1px solid red;
+}
+
+.main-footer-form input[type="email"]:focus{
+    border: 1px solid red;
+}
+
+.main-footer-form textarea:focus{
+    border: 1px solid red;
+}
+textarea{
+    resize: none;
+}
+
 .main-footer-form input[type="text"],
 .main-footer-form input[type="email"],
 .main-footer-form textarea {
@@ -597,6 +613,3 @@ font-weight: 400;
 
 
 
-=======
-.
->>>>>>> Stashed changes
