@@ -406,6 +406,7 @@ font-size: 18px;
 line-height: 18px;
 font-weight: 700;
 color: #445161;
+        text-transform: uppercase;
 }
 .price-item-btn:hover{
    background-color:  #445161;
@@ -454,7 +455,18 @@ color: #ffffff;
 textarea{
     resize: none;
 }
-
+.main-footer-clik:hover{
+     background-color:  #438671;
+    color: #fff;
+}
+.main-footer-form input[type="text"]:hover{
+     background-color:  #438671;
+    color: #fff;
+}
+.main-footer-form input[type="email"]:hover{
+     background-color:  #438671;
+    color: #fff;
+}
 .main-footer-form input[type="text"],
 .main-footer-form input[type="email"],
 .main-footer-form textarea {
